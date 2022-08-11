@@ -8,12 +8,20 @@ NOTE: PRICE **MAY VARY** DEPENDING ON WHERE THE HEADPHONE IS SOLD. MSRP IS **ONL
 
 ### Budget
 
-| Model Name              | Price (MSRP) |
+| Model Name               | Price (MSRP)  | Earcup Enclosure | Driver Type | Fit
+| ------------------------ | ------------- | ---------------- | ------------| -----------
+| Audio Technica ATH-M40x  | $100          | Closed-Back      | Dynamic     | Over-Ear
+| Koss KSC75               | $20           | Open-Back        | Dynamic     | On-Ear
+| Koss Porta Pro           | $50           | Closed-Back      | Dynamic     | On-Ear
+| Samson SR850             | $50           | Semi-Open Back   | Dynamic     | Over-Ear
+| Shure SRH440             | $50           | Closed-Back      | Dynamic     | Over-Ear
+| Superlux HD681           | $100          | Semi-Open Back   | Dynamic     | Over-Ear
+| Philips SHP9500          | $100          | Open-Back        | Dynamic     | Over-Ear
+
+### Midrange
+
+| Model Name              | Price (MSRP) | 
 | ------------------------| -------------|
-| Audio Technica ATH-M40x | $100         |
-| Koss KSC75              | $20          |
-| Koss Porta Pro          | $50          |
-| Samson SR850            | $50          |
-| Shure SRH440            | $50          |
-| Superlux HD681          | $100         |
-| Philips SHP9500         | $100         |
+| AKG K612 PRO            | $150         |
+| HIFIMAN HE400SE         | $150         |
+| Sennheiser HD560S       | $200         |
