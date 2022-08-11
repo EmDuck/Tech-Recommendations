@@ -68,7 +68,7 @@
 
 ## PSUs
 
-Cultists Network [PSU Tier List](https://cultists.network/140/psu-tier-list/)
+[psucultist's](https://cultists.network/psucultists/) [PSU Tier List](https://cultists.network/140/psu-tier-list/)
 
 ## Fans
 
