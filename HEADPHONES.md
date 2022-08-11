@@ -11,7 +11,7 @@ NOTE: PRICE **MAY VARY** DEPENDING ON WHERE THE HEADPHONE IS SOLD. MSRP IS **ONL
 | Model Name               | Price (MSRP)  | Earcup Enclosure | Driver Type | Fit      | Notes
 | ------------------------ | ------------- | ---------------- | ------------| -------- | ----------------
 | Audio Technica ATH-M40x  | $100          | Closed-Back      | Dynamic     | Over-Ear |
-| Koss GMR-545-Air         | $60           | Open-Back        | Dynamic     | Over-Ear | This is actually a gaming headset. Self-adjusting headband is too weird. Headband snaps easily due to cheap material.
+| Koss GMR-545-Air         | $60           | Open-Back        | Dynamic     | Over-Ear | This is actually a gaming headset. Self-adjusting headband doesn't actually work because the headphone is so light. Headband snaps easily due to cheap material.
 | Koss KSC75               | $20           | Open-Back        | Dynamic     | On-Ear   | Cheap as fuck. Breaks easily.
 | Koss Porta Pro           | $50           | Closed-Back      | Dynamic     | On-Ear   |
 | Samson SR850             | $50           | Semi-Open Back   | Dynamic     | Over-Ear |
