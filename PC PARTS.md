@@ -3,14 +3,14 @@
 ### Special thanks to [PCParadise](https://discord.gg/pcparadise) and [PC Help Hub](https://docs.google.com/presentation/d/1RSXkK6nSBhYbIuJzdbhcuOsKzP1w8auAwaYNd1gGI04/edit?usp=sharing)
 
 
-##### [CPUs](https://www.amazon.com/Vetroo-Cooler-Processor-Universal-Addressable/dp/B08F21X2VP/ref=sr_1_2?crid=3UEVFHKLZIYR4&keywords=vetroo+v5&qid=1660247128&sprefix=vetr%2Caps%2C146&sr=8-2)
-##### Coolers
+##### [CPUs](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#cpus-1)
+##### [Coolers](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#coolers-1)
 ##### Motherboards
-##### RAM
-##### SSDs
+##### [RAM](
+##### [SSDs](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#ssds-1)
 ##### GPUs
 ##### Cases
-##### PSUs
+##### [PSUs](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#psus-1)
 
 ## CPUs
 
