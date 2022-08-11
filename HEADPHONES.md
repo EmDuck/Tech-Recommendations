@@ -1,4 +1,4 @@
-# Headphone recommendations
+# Headphone Recommendations
 
 NOTE: PRICE **MAY VARY** DEPENDING ON WHERE THE HEADPHONE IS SOLD. MSRP IS **ONLY A REFERENCE.**
 
