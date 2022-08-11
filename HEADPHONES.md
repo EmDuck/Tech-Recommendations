@@ -35,14 +35,13 @@ NOTE: PRICE **MAY VARY** DEPENDING ON WHERE THE HEADPHONE IS SOLD. MSRP IS **ONL
 
 ### High-End
 
-| Model Name               | Price (MSRP)  | Earcup Enclosure | Driver Type | Fit       | Notes                               |
-| ------------------------ | ------------- | ---------------- | ------------| --------- | ----------------------------------- |
-| AKG K712 Pro             | $640          | Open-Back        | Dynamic     | Over-Ear  | Amazon prices this at 1/3 its MSRP. |
-| HIFIMAN ARYA             | $1,300        | Open-Back        | Planar      | Over-Ear  |
-| HIFIMAN SUSVARA          | $6,000        | Open-Back        | Planar      | Over-Ear  | ඞ sus                              |
-| Sennheiser HD800S        | $1,800        | Open-Back        | Dynamic     | Over-Ear  | Soundstage will blow your mind.     |
-
-
+| Model Name               | Price (MSRP)  | Earcup Enclosure | Driver Type   | Fit       | Notes                               |
+| ------------------------ | ------------- | ---------------- | ------------- | --------- | ----------------------------------- |
+| AKG K712 Pro             | $640          | Open-Back        | Dynamic       | Over-Ear  | Amazon prices this at 1/3 its MSRP. |
+| HIFIMAN ARYA             | $1,300        | Open-Back        | Planar        | Over-Ear  |
+| HIFIMAN SUSVARA          | $6,000        | Open-Back        | Planar        | Over-Ear  | ඞ sus                              |
+| Sennheiser HD800S        | $1,800        | Open-Back        | Dynamic       | Over-Ear  | Soundstage will blow your mind.     |
+| Sennheiser HE-1          | $60,000       | Open-Back        | Electrostatic | Over-Ear  | buy this to ascend to god
 
 
 
