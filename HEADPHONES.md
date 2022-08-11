@@ -1,6 +1,6 @@
 # Headphone Recommendations
 
-### Inspired by [crinacle's](https://crinacle.com/) **[Headphone Ranking List.](https://crinacle.com/rankings/headphones/)**
+### You can also check out [crinacle's](https://crinacle.com/) **[Headphone Ranking List.](https://crinacle.com/rankings/headphones/) for some more recommendations!**
 
 ## NOTE: PRICE **MAY VARY** DEPENDING ON WHERE THE HEADPHONE IS SOLD. MSRP IS **ONLY A REFERENCE.**
 
