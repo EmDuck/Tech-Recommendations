@@ -21,15 +21,15 @@
 
 #### Budget
 
-| Model Name
-| ----------------- |
-| AMD Ryzen gay
+| Model Name            | Price (MSRP) | Cores & Threads    | Notes
+| --------------------- | ------------ | ------------------ | ------------------------------------------------------------------------------------- |
+| Intel Core i3-12100/F | $130         | 4 Cores 8 Threads  | An amazing value budget gaming CPU. Performs similarly to the legendary Ryzen 5 3600. |
 
 #### Midrange
 
 | Model Name            | Price (MSRP) | Cores & Threads    | Notes
 | --------------------- | ------------ | ------------------ | ------------------------------------------------------------------------------------------------- |
-| AMD Ryzen 5 5600      | $200         | 6 Cores 12 Threads | An upgraded version of the legendary Ryzen 5 3600.                                                |
+| AMD Ryzen 5 5600      | $200         | 6 Cores 12 Threads | A well upgraded version of the legendary Ryzen 5 3600.                                                |
 | AMD Ryzen 5 5600X     | $300         | 6 Cores 12 Threads | Please **only buy this if it's cheaper than the regular 5600**.                                   |
 | Intel Core i5-10400/F | $157         | 6 Cores 12 Threads | Old but gold.                                                                                     |
 | Intel Core i5-11400/F | $182         | 6 Cores 12 Threads | Please **only buy this if it's cheaper than the i5-10400.** **Note:** You must **disable the power limit in the BIOS for this CPU to perform to its fullest.** |
