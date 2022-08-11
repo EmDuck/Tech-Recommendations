@@ -1,8 +1,8 @@
 # Headphone Recommendations
 
-NOTE: PRICE **MAY VARY** DEPENDING ON WHERE THE HEADPHONE IS SOLD. MSRP IS **ONLY A REFERENCE.**
-
 ### Inspired by [crinacle's](https://crinacle.com/) **[Headphone Ranking List.](https://crinacle.com/rankings/headphones/)**
+
+## NOTE: PRICE **MAY VARY** DEPENDING ON WHERE THE HEADPHONE IS SOLD. MSRP IS **ONLY A REFERENCE.**
 
 ##### Budget ($20-$100)
 ##### Midrange ($100-$500) 
