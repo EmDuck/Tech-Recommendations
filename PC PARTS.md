@@ -18,7 +18,7 @@
 ### [Budget](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#budget) ($100)
 ### [Midrange](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#midrange) ($300)
 ### [High-End](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#high-end) ($1000)
-### [Avoid](
+### [Avoid](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#avoid-1)
 
 #### Budget
 
