@@ -43,6 +43,24 @@
 | Intel Core i9-10900/F/K/KF | $488         | 10 Cores 20 Threads              | If you 
 | Intel Core i9-12900/F/K/KF | $589         | 16 Cores (8P+8E) 24 Threads      | -
 
+## Coolers
+
+### Air Coolers
+### Water Coolers
+
+#### Air Coolers
+
+| Model Name                         | Price (MSRP) | Colors  | Notes
+| ---------------------------------- | ------------ | ------- | ----------------------------------------------------------------------------------------------------- |
+| Arctic Freezer 34 CO               | $30          | Silver-Black                   | Old but gold. It has a sharp heatsink that will cut your fingers if you're not careful.
+| ID-COOLING SE-214-XT               | $20          | Black-RGB/White-RGB            | Amazing price-to performance cooler. Cheapest RGB tower cooler that doesn't suck.
+| ID-COOLING SE-224-XT               | $30          | Black, White, Black-RGB        | A great step-up from the SE-214-XT.
+| Deepcool AK400                     | $35          | Black, White                   | Basically a mini AK620. Performs amazingly for just $35.
+| Deepcool AK620                     | $70          | Black, White                   | One of the best air coolers in its league.
+| Thermalright Peerless Assassin 120 | $40          | Black, White, Gray, White-RGB  | 
+| Vetroo V5                          | $30          | Black-RGB, White-RGB, Pink-RGB |
+
+
 ## SSDs
 
 [windshield's](https://github.com/windshields) SSD [Ranking List + Guide](https://github.com/windshields/stoRAGE-consumer-SSD-buying-guide/blob/main/SSD%20tier%20list.md)
