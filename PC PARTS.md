@@ -44,7 +44,9 @@
 
 [windshield's](https://github.com/windshields) SSD [Ranking List + Guide](https://github.com/windshields/stoRAGE-consumer-SSD-buying-guide/blob/main/SSD%20tier%20list.md)
 
+## PSUs
 
+Cultists Network [PSU Tier List](https://cultists.network/140/psu-tier-list/)
 
 
 
