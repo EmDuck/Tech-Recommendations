@@ -39,10 +39,10 @@
 
 | Model Name                 | Price (MSRP) | Cores & Threads                  | Notes
 | -------------------------- | ------------ | -------------------------------- | ---------------------------------------------------------
-| Intel Core i7-10700/F/K/KF | $385         | 8 Cores 16 Threads               | Only get this if it's around i5-12400 pricing.
-| Intel Core i7-12700/F/K/KF | $420         | 12 Cores (8P+4E) 20 Threads      | The best price-to performance CPU in this class.
-| Intel Core i9-10900/F/K/KF | $488         | 10 Cores 20 Threads              | If you 
-| Intel Core i9-12900/F/K/KF | $589         | 16 Cores (8P+8E) 24 Threads      | -
+| Intel Core i7-10700/F/K/KF | $385         | 8 Cores 16 Threads               | **Only buy this if it's priced similarly to the i5-12400.**
+| Intel Core i7-12700/F/K/KF | $420         | 12 Cores (8P+4E) 20 Threads      | The best price-to performance CPU in its class.
+| Intel Core i9-10900/F/K/KF | $488         | 10 Cores 20 Threads              | If you can find this for under $300 from a used seller, this will actually be an amazing value CPU.
+| Intel Core i9-12900/F/K/KF | $589         | 16 Cores (8P+8E) 24 Threads      | The flagship i9 of the year.
 
 ## Coolers
 
