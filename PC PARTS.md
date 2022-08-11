@@ -15,9 +15,10 @@
 
 ## CPUs
 
-### Budget ($100)
-### Midrange ($300)
-### High-End ($1000)
+### [Budget](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#budget) ($100)
+### [Midrange](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#midrange) ($300)
+### [High-End](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#high-end) ($1000)
+### [Avoid](
 
 #### Budget
 
@@ -29,8 +30,8 @@
 
 | Model Name            | Price (MSRP) | Cores & Threads    | Notes
 | --------------------- | ------------ | ------------------ | ------------------------------------------------------------------------------------------------- |
-| AMD Ryzen 5 5600      | $200         | 6 Cores 12 Threads | A well upgraded version of the legendary Ryzen 5 3600.                                                |
-| AMD Ryzen 5 5600X     | $300         | 6 Cores 12 Threads | Please **only buy this if it's cheaper than the regular 5600**.                                   |
+| AMD Ryzen 5 5600      | $200         | 6 Cores 12 Threads | A well upgraded version of the legendary Ryzen 5 3600.                                            |
+| AMD Ryzen 5 5600G     | $250         | 6 Cores 12 Threads | Only buy this if you don't need a GPU/can't get one.
 | Intel Core i5-10400/F | $157         | 6 Cores 12 Threads | Old but gold.                                                                                     |
 | Intel Core i5-11400/F | $182         | 6 Cores 12 Threads | Please **only buy this if it's cheaper than the i5-10400.** **Note:** You must **disable the power limit in the BIOS for this CPU to perform to its fullest.** |
 | Intel Core i5-12400/F | $200         | 6 Cores 12 Threads | Amazing value. An amazing alternative to the Ryzen 5 5600.                                        |
@@ -44,10 +45,17 @@
 | Intel Core i9-10900/F/K/KF | $488         | 10 Cores 20 Threads              | If you can find this for under $300 from a used seller, this will actually be an amazing value CPU.
 | Intel Core i9-12900/F/K/KF | $589         | 16 Cores (8P+8E) 24 Threads      | The flagship i9 of the year.
 
+#### Avoid
+
+| Model Name                    | Price (MSRP) | Cores & Threads             | Notes
+| ----------------------------- | ------------ | --------------------------- | -------------------------------------------------------------------------------------  |
+| Every other 5000 series Ryzen | Overpriced   | 6-16 Cores 12-32 Threads    | The 12th gen Intel CPUs mentioned kick their ass. AMD really dissapointed this year.   |
+| Intel Core i5-12600/F/K/KF    | $289         | 10 Cores (6P+4E) 16 Threads | Performs as well as a 12400. What? You need cores? Go save money for the 12700 series. |
+
 ## Coolers
 
-### Air Coolers
-### Water Coolers
+### [Air Coolers](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#air-coolers-1)
+### [Water Coolers](
 
 #### Air Coolers
 
@@ -61,6 +69,7 @@
 | Thermalright Peerless Assassin 120 | $40          | Black, White, Gray, White-RGB  | 
 | Vetroo V5                          | $30          | Black-RGB, White-RGB, Pink-RGB |
 
+#### Water Coolers
 
 ## SSDs
 
