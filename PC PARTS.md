@@ -87,5 +87,5 @@
 
 ## Fans
 
-### You can also check out [Ozone's]( [Fan Buying Guide]( if he lets me use it for more recommendations!
+### You can also check out [Ozone's](https://github.com/ozone3950) [Fan Buying Guide]( if he lets me use it for more recommendations!
 
