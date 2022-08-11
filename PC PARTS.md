@@ -1,5 +1,8 @@
 # PC Part Recommendations
 
+### Special thanks to [PCParadise](https://discord.gg/pcparadise) and [PC Help Hub](https://docs.google.com/presentation/d/1RSXkK6nSBhYbIuJzdbhcuOsKzP1w8auAwaYNd1gGI04/edit?usp=sharing)
+
+
 ##### CPUs
 ##### Coolers
 ##### Motherboards
