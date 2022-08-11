@@ -31,7 +31,7 @@
 | AMD Ryzen 5 5600      | $200         | 6 Cores 12 Threads | An upgraded version of the legendary Ryzen 5 3600.                                                |
 | AMD Ryzen 5 5600X     | $300         | 6 Cores 12 Threads | Please **only buy this if it's cheaper than the regular 5600**.                                   |
 | Intel Core i5-10400/F | $157         | 6 Cores 12 Threads | Old but gold.                                                                                     |
-| Intel Core i5-11400/F | $182         | 6 Cores 12 Threads | **Note:** You must **disable the power limit in the BIOS for this CPU to perform to its fullest**. Also, it's not much of an upgrade from the 10400. You should only buy this if their prices are > $20 close to each other. |
+| Intel Core i5-11400/F | $182         | 6 Cores 12 Threads | **Note:** You must **disable the power limit in the BIOS for this CPU to perform to its fullest.** Also, it's not much of an upgrade from the 10400. You should only buy this if their prices are > $20 close to each other. |
 | Intel Core i5-12400/F | $200         | 6 Cores 12 Threads | Amazing value. An amazing alternative to the Ryzen 5 5600.                                        |
 
 #### High-End 
