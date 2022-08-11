@@ -10,7 +10,7 @@ NOTE: PRICE **MAY VARY** DEPENDING ON WHERE THE HEADPHONE IS SOLD. MSRP IS **ONL
 
 | Model Name               | Price (MSRP)  | Earcup Enclosure | Driver Type | Fit      | Notes
 | ------------------------ | ------------- | ---------------- | ------------| -------- | ----------------
-| Audio Technica ATH-M40x  | $100          | Closed-Back      | Dynamic     | Over-Ear |
+| Audio Technica ATH-M40x  | $100          | Closed-Back      | Dynamic     | Over-Ear | Clamps quite tightly for some users.
 | Koss GMR-545-Air         | $60           | Open-Back        | Dynamic     | Over-Ear | This is actually a gaming headset. Self-adjusting headband doesn't actually work because the headphone is so light. Headband snaps easily due to cheap material.
 | Koss KSC75               | $20           | Open-Back        | Dynamic     | On-Ear   | Cheap as fuck. Breaks easily.
 | Koss Porta Pro           | $50           | Closed-Back      | Dynamic     | On-Ear   | May hurt ears after long listening sessions for some users.
@@ -21,20 +21,24 @@ NOTE: PRICE **MAY VARY** DEPENDING ON WHERE THE HEADPHONE IS SOLD. MSRP IS **ONL
 
 ### Midrange
 
-| Model Name              | Price (MSRP) | Earcup Enclosure | Driver Type | Fit       | Notes
-| ----------------------- | ------------ | ---------------- | ------------| --------- | --------------
-| AKG K612 Pro            | $230         | Open-Back        | Dynamic     | Over-Ear  | Sounds extremely neutral, almost boring for some users.
-| Audio Technica ATH-M70x | $300         | Closed-Back      | Dynamic     | Over-Ear  | 
-| Audio Technica ATH-R70x | $350         | Open-Back        | Dynamic     | Over-Ear  | Headband may fit awkwardly for some users.
-| HIFIMAN HE400SE         | $150         | Open-Back        | Planar      | Over-Ear  | Cheap earpad material.
-| Sennheiser HD560S       | $200         | Open-Back        | Dynamic     | Over-Ear  | Clamps quite tightly for some users.
+| Model Name                  | Price (MSRP) | Earcup Enclosure | Driver Type | Fit       | Notes
+| --------------------------- | ------------ | ---------------- | ------------| --------- | ---------------------------------------------------------------- |
+| AKG K612 Pro                | $230         | Open-Back        | Dynamic     | Over-Ear  | Sounds extremely neutral, almost boring for some users.          |
+| Audio Technica ATH-M70x     | $300         | Closed-Back      | Dynamic     | Over-Ear  |                                                                  |
+| Audio Technica ATH-R70x     | $350         | Open-Back        | Dynamic     | Over-Ear  | Headband may fit awkwardly for some users.                       |
+| Beyerdynamic DT 770 PRO     | $150         | Closed-Back      | Dynamic     | Over-Ear  | Clamps like holy hell.                                           |
+| HIFIMAN HE400SE             | $150         | Open-Back        | Planar      | Over-Ear  | Cheap earpad material.                                           |
+| Massdrop X Sennheiser HD6XX | $240         | Open-Back        | Planar      | Over-Ear  | Clamps like holy hell. Basically a cheaper HD650. Amazing value. |
+| Sennheiser HD560S           | $200         | Open-Back        | Dynamic     | Over-Ear  | Clamps quite tightly for some users.                             |
+| Sennheiser HD600            | $400         | Open-Back        | Dynamic     | Over-Ear  | Clamps like holy hell.                                           |
+| Senngheiser HD650           | $500         | Open-Back        | Dynamic     | Over-Ear  | Clamps like holy hell. Basically a remodel of the HD600.         |
 
 ### High-End
 
 | Model Name               | Price (MSRP)  | Earcup Enclosure | Driver Type | Fit       | Notes                               |
 | ------------------------ | ------------- | ---------------- | ------------| --------- | ----------------------------------- |
 | AKG K712 Pro             | $640          | Open-Back        | Dynamic     | Over-Ear  | Amazon prices this at 1/3 its MSRP. |
-
+| HIFIMAN SUSVARA          | $6,000        | Open-Back        | Planar      | Over-Ear  | SUS!!! 
 
 
 
