@@ -75,12 +75,17 @@
 
 ## SSDs
 
-You can also check out [windshield's](https://github.com/windshields) SSD [Ranking List + Guide](https://github.com/windshields/stoRAGE-consumer-SSD-buying-guide/blob/main/SSD%20tier%20list.md) for some more recommendations!
+### You can also check out [windshield's](https://github.com/windshields) SSD [Ranking List + Guide](https://github.com/windshields/stoRAGE-consumer-SSD-buying-guide/blob/main/SSD%20tier%20list.md) for some more recommendations!
+
+
 
 ## PSUs
 
-You can also check out [psucultist's](https://cultists.network/psucultists/) [PSU Tier List](https://cultists.network/140/psu-tier-list/) for some more recommendations!
+### You can also check out [psucultist's](https://cultists.network/psucultists/) [PSU Tier List](https://cultists.network/140/psu-tier-list/) for some more recommendations!
+
+
 
 ## Fans
 
-You can also check out [Ozone's]( [Fan Buying Guide]( if he lets me use it for more recommendations!
+### You can also check out [Ozone's]( [Fan Buying Guide]( if he lets me use it for more recommendations!
+
