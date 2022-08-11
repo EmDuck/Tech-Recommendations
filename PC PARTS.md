@@ -3,22 +3,22 @@
 ### Special thanks to [PCParadise](https://discord.gg/pcparadise) and [PC Help Hub](https://docs.google.com/presentation/d/1RSXkK6nSBhYbIuJzdbhcuOsKzP1w8auAwaYNd1gGI04/edit?usp=sharing)
 
 
-##### [CPUs](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#cpus-1)
-##### [Coolers](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#coolers-1)
-##### Motherboards
-##### [RAM](
-##### [SSDs](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#ssds-1)
-##### GPUs
-##### Cases
-##### [PSUs](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#psus-1)
-##### [Fans](
+#### [CPUs](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#cpus-1)
+#### [Coolers](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#coolers-1)
+#### [Motherboards](
+#### [RAM](
+#### [SSDs](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#ssds-1)
+#### [GPUs](
+#### [Cases](
+#### [PSUs](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#psus-1)
+#### [Fans](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#fans-1)
 
 ## CPUs
 
-### [Budget](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#budget) ($100)
-### [Midrange](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#midrange) ($300)
-### [High-End](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#high-end) ($1000)
-### [Avoid](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#avoid-1)
+#### [Budget](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#budget) ($100)
+#### [Midrange](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#midrange) ($300)
+#### [High-End](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#high-end) ($1000)
+#### [Avoid](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#avoid-1)
 
 #### Budget
 
