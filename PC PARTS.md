@@ -11,6 +11,7 @@
 ##### GPUs
 ##### Cases
 ##### [PSUs](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#psus-1)
+##### [Fans](
 
 ## CPUs
 
@@ -69,5 +70,6 @@
 
 Cultists Network [PSU Tier List](https://cultists.network/140/psu-tier-list/)
 
+## Fans
 
-
+[Ozone's]( [Fan Buying Guide]( if he lets me use it
