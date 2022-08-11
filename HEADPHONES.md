@@ -24,7 +24,7 @@ NOTE: PRICE **MAY VARY** DEPENDING ON WHERE THE HEADPHONE IS SOLD. MSRP IS **ONL
 | Model Name                  | Price (MSRP) | Earcup Enclosure | Driver Type | Fit       | Notes
 | --------------------------- | ------------ | ---------------- | ------------| --------- | ---------------------------------------------------------------- |
 | AKG K612 Pro                | $230         | Open-Back        | Dynamic     | Over-Ear  | Sounds extremely neutral, almost boring for some users.          |
-| Audio Technica ATH-M70x     | $300         | Closed-Back      | Dynamic     | Over-Ear  |                                                                  |
+| Audio Technica ATH-M70x     | $300         | Closed-Back      | Dynamic     | Over-Ear  |
 | Audio Technica ATH-R70x     | $350         | Open-Back        | Dynamic     | Over-Ear  | Headband may fit awkwardly for some users.                       |
 | Beyerdynamic DT 770 PRO     | $150         | Closed-Back      | Dynamic     | Over-Ear  | Clamps like holy hell.                                           |
 | HIFIMAN HE400SE             | $150         | Open-Back        | Planar      | Over-Ear  | Cheap earpad material.                                           |
@@ -32,6 +32,7 @@ NOTE: PRICE **MAY VARY** DEPENDING ON WHERE THE HEADPHONE IS SOLD. MSRP IS **ONL
 | Sennheiser HD560S           | $200         | Open-Back        | Dynamic     | Over-Ear  | Clamps quite tightly for some users.                             |
 | Sennheiser HD600            | $400         | Open-Back        | Dynamic     | Over-Ear  | Clamps like holy hell.                                           |
 | Senngheiser HD650           | $500         | Open-Back        | Dynamic     | Over-Ear  | Clamps like holy hell. Basically a remodel of the HD600.         |
+| Shure SRH840                | $150         | Closed-Back      | Dynamic     | Over-Ear  |
 
 ### High-End
 
