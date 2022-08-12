@@ -41,16 +41,16 @@
 | Model Name                 | Price (MSRP) | Cores & Threads                  | Notes
 | -------------------------- | ------------ | -------------------------------- | ---------------------------------------------------------
 | Intel Core i7-10700/F/K/KF | $385         | 8 Cores 16 Threads               | **Only buy this if it's priced similarly to the i5-12400.**
-| Intel Core i7-12700/F/K/KF | $420         | 12 Cores (8P+4E) 20 Threads      | The best price-to performance CPU in its class.
+| Intel Core i7-12700/F/K/KF | $420         | 12 Cores (8P+4E) 20 Threads      | The best price-to performance CPU in its class. **Note:** You should use Windows 11 for the E-Cores to work. |
 | Intel Core i9-10900/F/K/KF | $488         | 10 Cores 20 Threads              | If you can find this for under $300 from a used seller, this will actually be an amazing value CPU.
 | Intel Core i9-12900/F/K/KF | $589         | 16 Cores (8P+8E) 24 Threads      | The flagship i9 of the year.
 
 #### Avoid
 
-| Model Name                    | Price (MSRP) | Cores & Threads             | Notes
-| ----------------------------- | ------------ | --------------------------- | -------------------------------------------------------------------------------------  |
-| Every other 5000 series Ryzen | Overpriced   | 6-16 Cores 12-32 Threads    | The 12th gen Intel CPUs mentioned kick their ass. AMD really dissapointed this year.   |
-| Intel Core i5-12600/F/K/KF    | $289         | 10 Cores (6P+4E) 16 Threads | Performs as well as a 12400. What? You need cores? Go save money for the 12700 series. |
+| Model Name                    | Price (MSRP) | Notes
+| ----------------------------- | ------------ | --------------------------------------------------------------------------------------- |
+| Every other 5000 series Ryzen | Overpriced   | The 12th gen Intel CPUs mentioned are better value.. AMD really dissapointed this year. |
+| Intel Core i5-12600/F/K/KF    | $289         | Performs as well as a 12400. What's that? It has 10 cores? ok lol go save money for the 12700 series |
 
 ## Coolers
 
@@ -61,14 +61,17 @@
 #### Air Coolers
 
 | Model Name                         | Price (MSRP) | Type  | Notes
-| ---------------------------------- | ------------ | ----- | ----------------------------------------------------------------------------------------------------- |
+| ---------------------------------- | ------------ | ----- | ------------------------------------------------------------------------------------------------------ |
 | Arctic Freezer 34 CO               | $30          | Tower | Old but gold. It has a sharp heatsink that will cut your fingers if you're not careful.
 | ID-COOLING SE-214-XT               | $20          | Tower | Amazing price-to performance cooler. Cheapest RGB tower cooler that doesn't suck.
 | ID-COOLING SE-224-XT               | $30          | Tower | A great step-up from the SE-214-XT.
+| Deepcool AS500/Plus                | $60-$70      | Tower | An outstanding RGB cooler.
 | Deepcool AK400                     | $35          | Tower | Basically a mini AK620. Performs amazingly for just $35.
 | Deepcool AK620                     | $70          | Tower | One of the best air coolers in its league.
-| Thermalright Peerless Assassin 120 | $40          | Tower | 
-| Vetroo V5                          | $30          | Tower |
+| Deepcool Gammaxx 400/V2            | $20-$25      | Tower | Another forgotten cooler. Legendary during its time. Though, the stock blue LED fan is disgusting imo. | | Deepcool Gammaxx GT/V2/GTE/GTE V2  | $30-$40      | Tower | RGB Gammaxx 400.
+| Thermalright Frost Spirit 140      | $50          | Tower | Quite a step-up from the smaller Peerless Assassin 120. It's like the older brother.
+| Thermalright Peerless Assassin 120 | $40          | Tower | Papa Dark Rock Pro 4, I want to be just like you when I grow up!
+| Vetroo V5                          | $30          | Tower | One of the best sellers on Amazon. Also has 5 heatpipes instead of the usual 4.
 
 #### Avoid
 
@@ -78,7 +81,17 @@
 
 #### Water Coolers
 
+| Model Name                     | Price (MSRP) | Sizes                         | Notes
+| ------------------------------ | ------------ | ----------------------------- | -----------------------------------------------------------------------------------
+| Alphacool Eisbaer/Aurora       | $            | 
+| Arctic Liquid Freezer II/A-RGB | $100-$150    | 120mm/240mm/280mm/360mm/420mm | One of the best price-to-performance AIOs out there. Sometimes you can find a 240mm on sale for **$70-$90**. Not to mention, the fans have dual-ball bearings so they'll last a good amount of years. |
+| EK-AIO Basic/D-RGB             | $            | 120mm/240mm/280mm/360mm       | Gorgeous black AIO, gorgeous RGB AIO. Even better, it performs as well as the Galahad AIO.
+| Lian Li Galahad AIO            | $            | 240mm/360mm                   | Great performing AIO, 
 
+#### Avoid
+
+| Model Name                         | Price (MSRP) | Sizes  | Notes
+| ---------------------------------- | ------------ | ----- | ------------------------------------------------------------------------------------------------------ |
 
 ## SSDs
 
