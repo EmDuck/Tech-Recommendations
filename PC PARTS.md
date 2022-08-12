@@ -56,18 +56,25 @@
 
 ### [Air Coolers](https://github.com/EmDuck/Tech-Recommendations/blob/main/PC%20PARTS.md#air-coolers-1)
 ### [Water Coolers](
+### [Avoid](
 
 #### Air Coolers
 
-| Model Name                         | Price (MSRP) | Colors  | Notes
-| ---------------------------------- | ------------ | ------- | ----------------------------------------------------------------------------------------------------- |
-| Arctic Freezer 34 CO               | $30          | Silver-Black                   | Old but gold. It has a sharp heatsink that will cut your fingers if you're not careful.
-| ID-COOLING SE-214-XT               | $20          | Black-RGB/White-RGB            | Amazing price-to performance cooler. Cheapest RGB tower cooler that doesn't suck.
-| ID-COOLING SE-224-XT               | $30          | Black, White, Black-RGB        | A great step-up from the SE-214-XT.
-| Deepcool AK400                     | $35          | Black, White                   | Basically a mini AK620. Performs amazingly for just $35.
-| Deepcool AK620                     | $70          | Black, White                   | One of the best air coolers in its league.
-| Thermalright Peerless Assassin 120 | $40          | Black, White, Gray, White-RGB  | 
-| Vetroo V5                          | $30          | Black-RGB, White-RGB, Pink-RGB |
+| Model Name                         | Price (MSRP) | Type  | Notes
+| ---------------------------------- | ------------ | ----- | ----------------------------------------------------------------------------------------------------- |
+| Arctic Freezer 34 CO               | $30          | Tower | Old but gold. It has a sharp heatsink that will cut your fingers if you're not careful.
+| ID-COOLING SE-214-XT               | $20          | Tower | Amazing price-to performance cooler. Cheapest RGB tower cooler that doesn't suck.
+| ID-COOLING SE-224-XT               | $30          | Tower | A great step-up from the SE-214-XT.
+| Deepcool AK400                     | $35          | Tower | Basically a mini AK620. Performs amazingly for just $35.
+| Deepcool AK620                     | $70          | Tower | One of the best air coolers in its league.
+| Thermalright Peerless Assassin 120 | $40          | Tower | 
+| Vetroo V5                          | $30          | Tower |
+
+#### Avoid
+
+| Model Name                            | Price (MSRP) | Colors       | Notes
+| ------------------------------------- | ------------ | ------------ | --------------------------------------------------------------------------------------------- |
+| Cooler Master Hyper 212 (All of them) | $50          | Black-Silver | All of the Hyper 212 coolers are overpriced. The EVO uses sleeve bearing fans, the worst bearing. $50 is insane for the performance of the **ID-COOLING SE-214-XT**, a $20 cooler.
 
 #### Water Coolers
 
@@ -83,6 +90,9 @@
 
 ### You can also check out [psucultist's](https://cultists.network/psucultists/) [PSU Tier List](https://cultists.network/140/psu-tier-list/) for some more recommendations!
 
+| Model Name                         | Price (MSRP) | Colors  | Notes
+| ---------------------------------- | ------------ | ------- | ----------------------------------------------------------------------------------------------------- |
+| 
 
 
 ## Fans
