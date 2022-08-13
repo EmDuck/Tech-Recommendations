@@ -95,8 +95,7 @@
 
 ## SSDs
 
-### You can also check out [windshield's](https://github.com/windshields) SSD [Ranking List + Guide](https://github.com/windshields/stoRAGE-consumer-SSD-buying-guide/blob/main/SSD%20tier%20list.md) for some more recommendations!
-
+### You can also check out NewMaxx's [SSD Buying Guide](https://www.reddit.com/user/NewMaxx/comments/9yv0c6/ssd_buying_guide_wip/)
 
 
 ## PSUs
