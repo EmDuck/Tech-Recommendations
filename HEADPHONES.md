@@ -14,7 +14,7 @@
 | ------------------------ | ------------- | ---------------- | ------------| -------- | ----------------
 | Audio Technica ATH-M40x  | $100          | Closed-Back      | Dynamic     | Over-Ear | Clamps quite tightly for some users.
 | Koss GMR-545-Air         | $60           | Open-Back        | Dynamic     | Over-Ear | This is actually a gaming headset. Self-adjusting headband doesn't actually work because the headphone is so light. Headband snaps easily due to cheap material.
-| Koss KSC75               | $20           | Open-Back        | Dynamic     | On-Ear   | Cheap as fuck. Breaks easily.
+| Koss KSC75               | $20           | Open-Back        | Dynamic     | On-Ear   | The king of cheap headphones. Cheap as fuck. Breaks easily.
 | Koss Porta Pro           | $50           | Closed-Back      | Dynamic     | On-Ear   | May hurt ears after long listening sessions for some users.
 | Samson SR850             | $50           | Semi-Open Back   | Dynamic     | Over-Ear |
 | Shure SRH440             | $50           | Closed-Back      | Dynamic     | Over-Ear |
