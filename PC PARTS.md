@@ -75,9 +75,9 @@
 
 #### Avoid
 
-| Model Name                            | Price (MSRP) | Colors       | Notes
-| ------------------------------------- | ------------ | ------------ | --------------------------------------------------------------------------------------------- |
-| Cooler Master Hyper 212 (All of them) | $50          | Black-Silver | All of the Hyper 212 coolers are overpriced. The EVO uses sleeve bearing fans, the worst bearing. $50 is insane for the performance of the **ID-COOLING SE-214-XT**, a $20 cooler.
+| Model Name                            | Price (MSRP) | Notes
+| ------------------------------------- | ------------ | --------------------------------------------------------------------------------------------- |
+| Cooler Master Hyper 212 (All of them) | $50          | All of the Hyper 212 coolers are overpriced. The EVO uses sleeve bearing fans, the worst bearing. $50 is insane for the performance of the **ID-COOLING SE-214-XT**, a $20 cooler.
 
 #### Water Coolers
 
@@ -90,8 +90,10 @@
 
 #### Avoid
 
-| Model Name                         | Price (MSRP) | Sizes  | Notes
-| ---------------------------------- | ------------ | ----- | ------------------------------------------------------------------------------------------------------ |
+| Model Name                | Price (MSRP) | Notes                    |
+| ------------------------- | ------------ | ------------------------ |
+| NZXT Kraken (All of them) | $80-$300     | Overpriced and mediocre. |
+
 
 ## SSDs
 
