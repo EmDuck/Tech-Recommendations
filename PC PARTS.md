@@ -50,7 +50,6 @@
 | Model Name                    | Price (MSRP) | Notes
 | ----------------------------- | ------------ | --------------------------------------------------------------------------------------- |
 | Every other 5000 series Ryzen | Overpriced   | The 12th gen Intel CPUs mentioned are better value.. AMD really dissapointed this year. |
-| Intel Core i5-12600/F/K/KF    | $289         | Performs as well as a 12400. What's that? It has 10 cores? ok lol go save money for the 12700 series |
 
 ## Coolers
 
